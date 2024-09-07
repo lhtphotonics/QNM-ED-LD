@@ -13,5 +13,7 @@ We kindly request that you cite the following Refs. [1-3] in any published work 
 
 # References
 [1] Lu, X.; Tao, Q.; Zhong, Y.; Liu, H. Efficient method for the electrodynamics Langevin-dynamics simulation of multiple nanoparticles based on the coupling theory of quasinormal mode. ACS Photonics 2024, 11 (8), 2970-2980.
+
 [2] Qi, Z.; Zhong, Y.; Liu, H. Efficient method for the calculation of the optical force of multiple nanoparticles based on the coupling theory of quasinormal modes. Opt. Lett. 2021, 46 (18), 4610-4613.
+
 [3] Tao, C.; Zhu, J.; Zhong, Y.; Liu, H. Coupling theory of quasinormal modes for lossy and dispersive plasmonic nanoresonators. Phys. Rev. B 2020, 102 (4), 045430.
